@@ -1,0 +1,31 @@
+{
+  "background_color": "#000000",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "Sani Student 2",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Sani2",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "com.sanistudent2",
+  "description": "اپ آموزشی چندضلعی‌های هشتم ساخته‌شده توسط مهدی نصراله‌زاده و ...",
+  "display_override": [
+    "window-controls-overlay",
+    "fullscreen",
+    "browser",
+    "minimal-ui",
+    "standalone"
+  ],
+  "categories": [
+    "education",
+    "kids"
+  ],
+  "related_applications": [
+    {
+      "platform": "",
+      "url": "https://evil87644-del.github.io/Sani.Student/",
+      "id": ""
+    }
+  ]
+}
